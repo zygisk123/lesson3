@@ -1,0 +1,40 @@
+
+body{
+    background-color: aqua;
+}
+.container{
+    margin-top: 50px;
+}
+.col-1{
+    background-color: #3CA2E3;
+    border: 1px;
+}
+
+.col-3{
+    background-color: #3F8B20;
+}
+
+.col-4{
+    background-color: #0150F0;
+}
+
+.col-8, #row_4_col_4{
+    background-color: #7049F6;
+}
+
+
+.row{
+    text-align: center;
+}
+
+.col-2, #row_5_col_4{
+    background-color: #AE50F7;
+}
+
+.col-6{
+    background-color: #D93A74;
+}
+
+.col-12{
+    background-color: #A32426;
+}

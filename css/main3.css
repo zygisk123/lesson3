@@ -1,0 +1,29 @@
+body{
+    background-color: #3798DC;
+}
+
+#main_form{
+    background-color: #FFFFFF;
+    margin-top: 50px;
+    padding: 20px;
+    border-radius: 5px;  
+}
+
+form > .row, .form-group, .form-check{
+    margin-bottom: 15px;
+}
+
+button{
+    width: 30%;
+}
+
+.col-12 > p, .form-check{
+    color: #B19A99;
+    font-size: 14px;
+}
+
+#bottom, #bottom > a {
+    margin-top: 10px;
+    text-align: center;
+    color: #FFFFFF;
+}

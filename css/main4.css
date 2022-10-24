@@ -1,0 +1,49 @@
+.form-select, .form-check, #Material_label{
+    margin-top: 20px;
+}
+
+.form-check{
+    margin-left: 100px;
+}
+
+#Material_label{
+    margin-left: 10px;
+}
+
+#clear_button{
+    margin-top: 30px;
+    margin-left: 50px;
+    width: 200px;
+    height: 50px;
+}
+
+#top_row{
+    margin-top: 30px;
+    text-align: center;
+}
+
+.input-group{
+    text-align: center;
+}
+
+#main_form, .nav-pills{
+    margin-top: 30px;
+}
+
+.form-control{
+    width: 100%;
+}
+
+#bottom_left, #bottom_right{
+    display: inline-block;
+}
+
+#bottom_right{
+
+    margin-left: 248px;
+}
+
+#submit_btn{
+    margin-top: 30px;
+    width: 100%;
+}
